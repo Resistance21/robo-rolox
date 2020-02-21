@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robo-rolox/static/css/main.aae2d587.chunk.css",
+    "main.js": "/robo-rolox/static/js/main.979b5b2e.chunk.js",
+    "main.js.map": "/robo-rolox/static/js/main.979b5b2e.chunk.js.map",
+    "runtime-main.js": "/robo-rolox/static/js/runtime-main.93cc7bc2.js",
+    "runtime-main.js.map": "/robo-rolox/static/js/runtime-main.93cc7bc2.js.map",
+    "static/js/2.909ccc88.chunk.js": "/robo-rolox/static/js/2.909ccc88.chunk.js",
+    "static/js/2.909ccc88.chunk.js.map": "/robo-rolox/static/js/2.909ccc88.chunk.js.map",
+    "index.html": "/robo-rolox/index.html",
+    "precache-manifest.b16ef5ebaf576822ca252568353515b9.js": "/robo-rolox/precache-manifest.b16ef5ebaf576822ca252568353515b9.js",
+    "service-worker.js": "/robo-rolox/service-worker.js",
+    "static/css/main.aae2d587.chunk.css.map": "/robo-rolox/static/css/main.aae2d587.chunk.css.map",
+    "static/js/2.909ccc88.chunk.js.LICENSE.txt": "/robo-rolox/static/js/2.909ccc88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93cc7bc2.js",
+    "static/js/2.909ccc88.chunk.js",
+    "static/css/main.aae2d587.chunk.css",
+    "static/js/main.979b5b2e.chunk.js"
+  ]
+}
